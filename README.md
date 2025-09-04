@@ -80,7 +80,8 @@ These KPIs highlight steady revenue with tight profit margins, underscoring the 
 
 ## VISUALIZATION
 
-![DASHBOARD 2](<img width="986" height="491" alt="Screenshot 2025-09-04 181046" src="https://github.com/user-attachments/assets/147e9b2b-3537-4d49-88fa-3d78b7c2243f" />
+![DASHBOARD 2](<img width="986" height="491" alt="Screenshot 2025-09-04 181046" src="https://github.com/user-attachments/assets/cb86095b-c0ec-4e57-a170-649d096c0e83" />
+
 )
 
 ---
