@@ -16,8 +16,9 @@ This analysis leverages multi-year insights from Global Superstore’s dashboard
 
 These KPIs highlight steady revenue with tight profit margins, underscoring the need for cost and margin management.
 
-![Dashboard Overview](images/dashboard-overview.png)
+![DASHBOARD 1](<img width="868" height="547" alt="Screenshot 2025-08-31 152200" src="https://github.com/user-attachments/assets/2d27df5b-82c6-44e1-90f0-51238465ce70" />
 
+)
 ---
 
 ## 1. Top Countries and Their Most Profitable Products (Multiple Years)
@@ -26,8 +27,6 @@ These KPIs highlight steady revenue with tight profit margins, underscoring the 
 - **China** and **India** also rank highly in total profit, with technology and office supplies as leading categories.
 - The top three products by profit fluctuate but consistently feature copiers, phones, and machines.
 
-![Top Countries Profit](images/top-countries-profit.png)
-
 ---
 
 ## 2. Highest Shipping Cost Subcategories in the United States
@@ -35,16 +34,12 @@ These KPIs highlight steady revenue with tight profit margins, underscoring the 
 - Shipping costs are concentrated in **Tables (45%)**, **Copiers (36%)**, and **Machines (19%)**.
 - These bulky and heavy subcategories contribute disproportionally to overall shipping expenses, impacting net profits.
 
-![Shipping Costs Pie Chart](images/shipping-costs-pie.png)
-
 ---
 
 ## 3. Nigeria’s Profitability Compared to Other African Countries
 
 - Nigeria consistently ranks near the bottom in profitability among African countries, overshadowed by South Africa, Morocco, and Egypt.
 - Key challenges include political instability, inadequate infrastructure, high business costs, fragmented retail markets, and economic reliance on volatile oil revenues.
-
-![Africa Profitability Bar Chart](images/africa-profitability.png)
 
 ---
 
@@ -60,8 +55,6 @@ These KPIs highlight steady revenue with tight profit margins, underscoring the 
 - Causes include very low pricing, extensive discounting, high logistics costs despite low product weight, market saturation, and supply chain inefficiencies.
 - Strategic recommendations include pricing revisions, supply chain optimization, bundling strategies, and market-specific discontinuations.
 
-![Envelope Loss by Country](images/envelope-losses.png)
-
 ---
 
 ## 5. Least Profitable Cities in the United States
@@ -69,15 +62,11 @@ These KPIs highlight steady revenue with tight profit margins, underscoring the 
 - Among cities with over 10 orders, **Burbank** shows the lowest average profit, pointing to potential local market or operational issues.
 - Other low-profit cities include Beverly, Jamestown, and Great Falls.
 
-![Least Profitable US Cities](images/least-profitable-cities.png)
-
 ---
 
 ## 6. Highest Average Profit Product Subcategory in Australia
 
 - Australian sales show **Appliances** lead profitability (~$150 average profit), followed by Copiers, Phones, Bookcases, and Chairs.
-
-![Australia Product Profit](images/australia-profit.png)
 
 ---
 
@@ -86,7 +75,13 @@ These KPIs highlight steady revenue with tight profit margins, underscoring the 
 - High-value customers such as **Tamara Chand** ($9,059 profit) and **Greg Tran** purchase high-margin products, including binding systems and advanced copiers.
 - Focusing retention and cross-sell strategies on these customers could improve profitability.
 
-![Top Customers](images/top-customers.png)
+
+---
+
+## VISUALIZATION
+
+![DASHBOARD 2](<img width="986" height="491" alt="Screenshot 2025-09-04 181046" src="https://github.com/user-attachments/assets/147e9b2b-3537-4d49-88fa-3d78b7c2243f" />
+)
 
 ---
 
