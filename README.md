@@ -16,9 +16,8 @@ This analysis leverages multi-year insights from Global Superstore’s dashboard
 
 These KPIs highlight steady revenue with tight profit margins, underscoring the need for cost and margin management.
 
-![DASHBOARD 1](<img width="868" height="547" alt="Screenshot 2025-08-31 152200" src="https://github.com/user-attachments/assets/2d27df5b-82c6-44e1-90f0-51238465ce70" />
+<img width="788" height="500" alt="Screenshot 2025-09-04 180907" src="https://github.com/user-attachments/assets/3fc38425-4842-45ee-bbdb-361a4309a379" />
 
-)
 ---
 
 ## 1. Top Countries and Their Most Profitable Products (Multiple Years)
@@ -80,7 +79,7 @@ These KPIs highlight steady revenue with tight profit margins, underscoring the 
 
 ## VISUALIZATION
 
-![DASHBOARD 2](<img width="986" height="491" alt="Screenshot 2025-09-04 181046" src="https://github.com/user-attachments/assets/cb86095b-c0ec-4e57-a170-649d096c0e83" />)
+<img width="986" height="491" alt="Screenshot 2025-09-04 181046" src="https://github.com/user-attachments/assets/87ee0f34-c852-40d1-a089-99cc35e918e4" />
 
 ---
 
